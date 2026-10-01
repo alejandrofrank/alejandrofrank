@@ -21,5 +21,3 @@ I build the systems behind it: collection jobs, a historical warehouse, currency
 | [Bakiano](https://github.com/alejandrofrank/bakiano-showcase) | A live market-data product, its architecture, and the decisions behind its historical data pipeline. Product source is private. |
 | [Interactive portfolio](https://github.com/alejandrofrank/alejandrofrank-eng) | A live Cloudflare Workers site with project walkthroughs, a career timeline, and GitHub activity. |
 | [ASCII art experiments](https://github.com/alejandrofrank/art_exploring) | Image-to-text art with color palettes, character sets, and side-by-side visual examples. |
-
-My older data-engineering learning projects remain available as an archive of where I started.
